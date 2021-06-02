@@ -5,7 +5,7 @@ My personal Data Science portfolio hosted on Github Pages.
 
 This portfolio presents some of my personal projects contained in my Github repositories.
 
- ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
+## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
 This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and "MNIST" dataset.
 
