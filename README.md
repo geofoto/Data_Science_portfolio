@@ -3,11 +3,7 @@ My personal Data Science portfolio hosted on Github Pages.
 
 ## Welcome to my personal Data Science portfolio
 
-You can use the [editor on GitHub](https://github.com/geofoto/Data_Science_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 This portfolio presents some of my personal projects contained in my Github repositories.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
  ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
