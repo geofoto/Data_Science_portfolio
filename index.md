@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/geofoto/Data_Science_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
- # [Machine Learning](https://github.com/geofoto/Machine_Learning)
+ ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
 This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and "MNIST" dataset.
 
