@@ -10,8 +10,8 @@ This repository contains some of the most typical tasks in Machine Learning, **C
 
 Training different models using **Decision Trees**, **Linear regression** and **Logistic regression** and plot the loss (𝑦−𝑦̂) with respect to the training epochs, for each one of the regression models. For all these tasks the "Bike Sharing" dataset has been used.
 
-![](./gh-pages/images/linear.jpg)
-![](https://github.com/geofoto/Georgios-Fotopoulos-portfolio/blob/gh-pages/images/linearv.jpg)
+![](https://github.com/geofoto/Georgios-Fotopoulos-portfolio/blob/gh-pages/images/linear_1.jpg)
+![](https://github.com/geofoto/Georgios-Fotopoulos-portfolio/blob/gh-pages/images/linear_2.jpg)
 
 ### [Exploratory Data Analysis](https://github.com/geofoto/Machine_Learning/tree/main/Exploratory%20data%20analysis)
 
