@@ -19,7 +19,7 @@ Training different models using **Decision Trees**, **Linear regression** and **
 
 In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms oh their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
  
-![](/images/eda_clas_1.jpg) ![](/images/eda_clas_5.jpg)
+![](/images/eda_clas_1.jpg) ![](/images/eda_clas_5.jpg) ![](/images/eda_reg_1.jpg)
 
 ### [Computer vision](https://github.com/geofoto/Machine_Learning/tree/main/Computer%20vision)
 
