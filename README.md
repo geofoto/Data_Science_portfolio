@@ -3,7 +3,13 @@ My personal Data Science portfolio hosted on Github Pages.
 
 ## Welcome to my personal Data Science portfolio
 
-This repository holds all of my personal projects that I have done so far. Currently they have binned in three different categories
+This repository holds all of my personal projects that I have done so far. Currently they have binned in three different categories:
+<ol>
+<li>[Machine Learning](https://github.com/geofoto/Machine_Learning)</li>
+<li>[Databases](https://github.com/geofoto/Machine_Learning)</li>
+<li>[Data visualization](https://github.com/geofoto/Machine_Learning)</li>
+<li>Fourth item</li>
+</ol>
 
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
