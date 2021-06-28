@@ -1,9 +1,26 @@
 # Georgios Fotopoulos portfolio
 My personal Data Science portfolio hosted on Github Pages.
 
-## Welcome to my personal Data Science portfolio
+## About
 
-This portfolio presents some of my personal projects contained in my Github repositories.
+Hello!
+<p>My name is Georgios Fotopoulos and welcome to my personal portfolio.<br>
+I am an experienced Business Intelligence Specialist with a demonstrated history of working in the Information Technology and services industry.<br>
+I hold a Master's degree in Data Science and a Bachelor's degree in Computer Science and I have 10 years of hands-on experience, supporting business solution software and analyzing business operations.</p>
+
+## Index
+
+This repository holds all of my personal projects that I have done so far. Currently they have binned in three different categories:
+<ol>
+<li>Machine Learning</li>
+ <ul>
+<li>Regression and Classification</li>
+<li>Exploratory Data Analysis</li>
+<li>Computer vision</li>
+</ul>
+<li>Databases</li>
+<li>Data visualization</li>
+</ol>
 
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
