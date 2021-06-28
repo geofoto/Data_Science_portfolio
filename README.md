@@ -15,7 +15,7 @@ This repository holds all of my personal projects that I have done so far. Curre
 <li>Data visualization</li>
 </ol>
 
-## Welcome to my personal Data Science portfolio
+## About
 
 Hello!
 <p>My name is Georgios Fotopoulos and welcome to my personal portfolio.<br>
