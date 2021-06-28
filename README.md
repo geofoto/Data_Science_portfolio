@@ -20,7 +20,7 @@ This repository holds all of my personal projects that I have done so far. Curre
 Hello!
 <p>My name is Georgios Fotopoulos and welcome to my personal portfolio.<br>
 I am an experienced Business Intelligence Specialist with a demonstrated history of working in the Information Technology and services industry.<br>
-I hold a Master's degree in Data Science and a Bachelor's degree in Computer Science and I have 10 years hands-on experience, supporting business solution software and analyzing business operations.</p>
+I hold a Master's degree in Data Science and a Bachelor's degree in Computer Science and I have 10 years of hands-on experience, supporting business solution software and analyzing business operations.</p>
 
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
