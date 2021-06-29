@@ -60,7 +60,7 @@ This repository contains samples for my Data visualization projects and reports 
 
 ### Tableau
 
- ![](/images/tableau_1.jpg)&nbsp;&nbsp;![](/images/tableau_2.jpg)
+ ![](/images/tableau_1.jpg) [](/images/tableau_2.jpg)
 
 ### Kibana
 
