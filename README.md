@@ -20,6 +20,11 @@ This repository holds all of my personal projects that I have done so far. Curre
 </ul>
 <li>Databases</li>
 <li>Data visualization</li>
+ <ul>
+<li>Power BI</li>
+<li>Tableau</li>
+<li>Kibana</li>
+</ul>
 </ol>
 
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
@@ -43,3 +48,19 @@ In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzi
 A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this task is to correctly identify digits from a dataset of handwritten images. Again, we apply EDA together with algorithm comparison and selection to train and evaluate the best model, which in this case, is proved to be the **k-NN**.
 
 ![](/images/mnist_1.png)
+
+## [Data visualization](https://github.com/geofoto/Data_visualization)
+
+This repository contains samples for my Data visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
+
+### Power BI 
+
+![](/images/powerbi_1.jpg)
+
+### Tableau
+
+ ![](/images/tableau_1.jpg) ![](/images/tableau_2.jpg)
+
+### Kibana
+
+![](/images/kibana_1.jpg) ![](/images/kibana_2.jpg)
