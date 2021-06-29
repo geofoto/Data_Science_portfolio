@@ -47,6 +47,8 @@ A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this
 
 ![](/images/mnist_1.png)
 
+
+
 __________________________________________________________________________________________________________________________________________________________________________
 ## [Data visualization](https://github.com/geofoto/Data_visualization)
 
