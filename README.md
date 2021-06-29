@@ -50,11 +50,12 @@ This repository contains samples for my Data visualization projects and reports 
 
 ### Power BI 
 
-
+![](/images/powerbi_1.jpg)
 
 ### Tableau
 
- 
+ ![](/images/tableau_1.jpg) ![](/images/tableau_2.jpg)
 
 ### Kibana
 
+![](/images/kibana_1.jpg) ![](/images/kibana_2.jpg)
