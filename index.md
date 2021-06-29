@@ -23,7 +23,7 @@ This repository holds all of my personal projects that I have done so far. Curre
 <li>Kibana</li>
 </ul>
 </ol>
-__________________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
 This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and "MNIST" dataset.
