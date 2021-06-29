@@ -6,11 +6,11 @@ I am an experienced Business Intelligence Specialist with a demonstrated history
 I hold a Master's degree in Data Science and a Bachelor's degree in Computer Science and I have 10 years of hands-on experience, supporting business solution software and analyzing business operations.</p>
 
 ### Contact me
-|**Contact method**|            |
-| -----------|:-------------:   |
-| Email      |geo.fot@gmail.com |
-| Phone      | (+30) 6977569249 |
-| LinkedIn   | https://www.linkedin.com/in/giorgos-fotopoulos/ |
+|**Contact method**|                                                 |
+| -----------------|:-----------------------------------------------:|
+| Email            |geo.fot@gmail.com                                |
+| Phone            | (+30) 6977569249                                |
+| LinkedIn         | https://www.linkedin.com/in/giorgos-fotopoulos/ |
 
 ## Index
 
