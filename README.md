@@ -20,6 +20,11 @@ This repository holds all of my personal projects that I have done so far. Curre
 </ul>
 <li>Databases</li>
 <li>Data visualization</li>
+ <ul>
+<li>Power BI</li>
+<li>Tableau</li>
+<li>Kibana</li>
+</ul>
 </ol>
 
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
