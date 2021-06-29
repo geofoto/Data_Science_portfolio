@@ -11,7 +11,7 @@ I hold a Master's degree in Data Science and a Bachelor's degree in Computer Sci
 | -----------------|:-----------------------------------------------:|
 | **Email**            |geo.fot@gmail.com                                |
 | **Phone**            | (0030) 6977569249                                |
-| **LinkedIn**         | https://www.linkedin.com/in/giorgos-fotopoulos/ |
+| **LinkedIn**         | [https://www.linkedin.com/in/giorgos-fotopoulos/](https://www.linkedin.com/in/giorgos-fotopoulos/) |
 
 ## Index
 
