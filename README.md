@@ -44,7 +44,7 @@ A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this
 
 ![](/images/mnist_1.png)
 
-# Data visualization
+## [Data visualization](https://github.com/geofoto/Data_visualization)
 
 This repository contains samples for my Data visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
 
