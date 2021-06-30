@@ -6,7 +6,7 @@ My personal Data Science portfolio hosted on Github Pages.
 Hello!
 <p>My name is Georgios Fotopoulos and welcome to my personal portfolio.<br>
 I am an experienced Data Analyst and Business Intelligence Specialist with a demonstrated history of working in the Information Technology and services industry.<br>
-I hold a Master's degree in Data Science and a Bachelor's degree in Computer Science and I have 10 years of hands-on experience, supporting business solution software and analyzing business operations.</p>
+Having a Master's degree in Data Science and a Bachelor's degree in Computer Science and about 10 years of hands-on experience, have helped me to build a strong background in supporting business solution software and analyzing business operations.</p>
 
 ### Contact me
 
