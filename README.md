@@ -21,7 +21,7 @@ I hold a Master's degree in Data Science and a Bachelor's degree in Computer Sci
 This repository holds all of my personal projects that I have done so far. Currently they have binned in three different categories:
 <ol>
 <li>Machine Learning</li>
- <ul>
+<ul>
 <li>Regression and Classification</li>
 <li>Exploratory Data Analysis</li>
 <li>Computer vision</li>
