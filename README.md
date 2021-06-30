@@ -21,14 +21,18 @@ I hold a Master's degree in Data Science and a Bachelor's degree in Computer Sci
 This repository holds all of my personal projects that I have done so far. Currently they have binned in three different categories:
 <ol>
 <li>Machine Learning</li>
- <ul>
+<ul>
 <li>Regression and Classification</li>
 <li>Exploratory Data Analysis</li>
 <li>Computer vision</li>
 </ul>
 <li>Databases</li>
-<li>Data visualization</li>
- <ul>
+<ul>
+<li>SQL (PostgreSQL)</li>
+<li>NoSQL (MongoDB, Elasticsearch, Solr)</li>
+</ul>
+<li>Data Visualization</li>
+<ul>
 <li>Power BI</li>
 <li>Tableau</li>
 <li>Kibana</li>
@@ -61,9 +65,9 @@ A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this
 
 
 __________________________________________________________________________________________________________________________________________________________________________
-## [Data visualization](https://github.com/geofoto/Data_visualization)
+## [Data Visualization](https://github.com/geofoto/Data_visualization)
 
-This repository contains samples for my Data visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
+This repository contains samples for my Data Visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
 
 ### Power BI 
 
