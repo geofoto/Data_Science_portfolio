@@ -64,18 +64,28 @@ A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this
 __________________________________________________________________________________________________________________________________________________________________________
 ## [Data Visualization](https://github.com/geofoto/Data_visualization)
 
-This repository contains samples for my Data visualization projects and reports created using **Power BI**, **Tableau** and **Kibana**.
+This repository contains samples for my Data Visualization projects and reports using real-world data, created with 
+**Power BI**, **Tableau** and **Kibana**.
 
 ### Power BI 
 
-In this project, were created dashboards related to Covid-19 pandemic that provide up-to-date data about coronavirus infections and deaths worldwide, using the Data Visualization tool **Power BI**. Data can be filtered by country or even by cases and deaths and the top 10 countries are also presented.
+In this project, we created dashboards related to Covid-19 pandemic that provide up-to-date data about coronavirus
+infections and deaths worldwide, using the Data Visualization tool **Power BI**. Data can be filtered by country,
+or even by cases and deaths and also the top 10 countries are presented.  
 
 ![](/images/powerbi_1.jpg) ![](/images/powerbi_2.jpg)
 
 ### Tableau
 
+Next, information around the TSA Claims Data, compiled by the Department of Homeland Security of the United States
+are visualized. The datasets contain data about the years 2002-2014 and the dashboards we created, categorize claims
+by year, claims by airport, claims status by year, items by claim amount, and items by airport. To perform this project
+we used the Data Visualization tool **Tableau**. 
+
 ![](/images/tableau_1.jpg) ![](/images/tableau_2.jpg)
 
 ### Kibana
+
+In this project, we created dashboards around the causes of flight delays and cancellations in flight problems due to severe weather conditions, using the Data Visualization tool **Kibana**.
 
 ![](/images/kibana_1.jpg)&nbsp;&nbsp;![](/images/kibana_2.jpg)
