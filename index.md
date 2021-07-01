@@ -45,19 +45,19 @@ This repository contains some of the most typical tasks in Machine Learning, **C
 
 Training different models using **Decision Trees**, **Linear regression** and **Logistic regression** and plot the loss (𝑦−𝑦̂) with respect to the training epochs, for each one of the regression models. For all these tasks the "Bike Sharing" dataset has been used.
 
-<img src="/images/linear_1.jpg" width="340" height="250">&nbsp;&nbsp;<img src="/images/linear_2.jpg" width="340" height="250">
+<img width="340" height="250" src="/images/linear_1.jpg">&nbsp;&nbsp;<img width="340" height="250" src="/images/linear_2.jpg">
 
 ### [Exploratory Data Analysis](https://github.com/geofoto/Machine_Learning/tree/main/Exploratory%20data%20analysis)
 
 In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms of their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
 
-<img src="/images/eda_clas_1.jpg" width="340" height="250">&nbsp;&nbsp;<img src="/images/eda_clas_5.jpg" width="340" height="250">
+<img width="340" height="250" src="/images/eda_clas_1.jpg">&nbsp;&nbsp;<img width="340" height="250" src="/images/eda_clas_5.jpg">
 
 ### [Computer vision](https://github.com/geofoto/Machine_Learning/tree/main/Computer%20vision)
 
 A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this task is to correctly identify digits from a dataset of handwritten images. Again, we apply EDA together with algorithm comparison and selection to train and evaluate the best model, which in this case, is proved to be the **k-NN**.
 
-<img src="/images/mnist_1.png" width="340" height="250">
+<img width="340" height="250" src="/images/mnist_1.png">
 
 
 
