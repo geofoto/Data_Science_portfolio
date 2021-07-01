@@ -39,7 +39,7 @@ This repository holds all of my personal projects that I have done so far. Curre
 __________________________________________________________________________________________________________________________________________________________________________
 ## [Machine Learning](https://github.com/geofoto/Machine_Learning)
 
-This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and "MNIST" dataset.
+This repository contains some of the most typical tasks in Machine Learning, **Classification** and **Regression**, along with **Exploratory Data Analysis**, **Algorithm comparison** and **Computer vision**, using some of the most popular datasets like "Bike Sharing", "Breast cancer", "Diabetes" and the "MNIST" dataset.
 
 ### [Regression and Classification](https://github.com/geofoto/Machine_Learning/tree/main/Regression%20and%20Classification) 
 
@@ -49,7 +49,7 @@ Training different models using **Decision Trees**, **Linear regression** and **
 
 ### [Exploratory Data Analysis](https://github.com/geofoto/Machine_Learning/tree/main/Exploratory%20data%20analysis)
 
-In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms oh their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
+In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzing the datasets, by investigating the dimensions of the data, the data types and their statistical properties. Moreover, after choosing a set of classification and regression algorithms to compare in terms of their accuracy, we train and evaluate the selected models. For both these tasks the "Breast cancer" and "Diabetes" dataset have been used.
  
 ![](/images/eda_clas_1.jpg)&nbsp;&nbsp;![](/images/eda_clas_5.jpg)
 
