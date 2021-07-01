@@ -68,7 +68,7 @@ This repository contains samples for my Data Visualization projects and reports 
 
 ### Power BI 
 
-![](/images/powerbi_1.jpg)
+![](/images/powerbi_1.jpg) ![](/images/powerbi_2.jpg)
 
 ### Tableau
 
