@@ -56,8 +56,6 @@ In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzi
  
 ![](/images/eda_clas_1.jpg)&nbsp;&nbsp;![](/images/eda_clas_5.jpg)
 
-![](/images/eda_reg_2.jpg)
-
 ### [Computer vision](https://github.com/geofoto/Machine_Learning/tree/main/Computer%20vision)
 
 A typical **Computer Vision** problem using the "MNIST" dataset. The aim of this task is to correctly identify digits from a dataset of handwritten images. Again, we apply EDA together with algorithm comparison and selection to train and evaluate the best model, which in this case, is proved to be the **k-NN**.
