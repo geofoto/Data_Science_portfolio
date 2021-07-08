@@ -56,7 +56,7 @@ In this task, we apply Exploratory Data Analysis (EDA) as an approach of analyzi
  
 ![](/images/eda_clas_1.jpg)&nbsp;&nbsp;![](/images/eda_clas_5.jpg)
 
-![](/images/eda_clas_2.jpg)&nbsp;&nbsp;![](/images/eda_reg_2.jpg)
+![](/images/eda_reg_2.jpg)
 
 ### [Computer vision](https://github.com/geofoto/Machine_Learning/tree/main/Computer%20vision)
 
